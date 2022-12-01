@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iamprathosh
 - 👀 I’m interested in ... Artificial Intelligence
 - 🌱 I’m currently learning ... Python and Git
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... iamprathosh@gmail.com
 
 <!---

@@ -17,17 +17,6 @@
 - Improving my knowledge of backend development and microservices.
 - Building small projects to experiment with different tools and designs.
 
-## Projects
-1. [Project Name](https://github.com/iamprathosh/YourProject):
-   - Short description of what this project does.
-2. [Another Project](https://github.com/iamprathosh/AnotherProject):
-   - Brief explanation highlighting tech stack or reason for building it.
-
-## Contact Me
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile/)
-- Follow me on [GitHub](https://github.com/iamprathosh)
-- Shoot me an email at youraddress@example.com
-
-<!-- You can add a personal touch with fun facts, GitHub stats, or an activity graph -->
+>
 
 Thanks for stopping by!
